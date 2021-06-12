@@ -1,5 +1,5 @@
 
-This is a sample NPM module created in *[Learn Enough JavaScript to Be Dangerous](https://www.learnenough.com/javascript)* by N Jewell.
+This is a sample NPM module created in *[Learn Enough JavaScript to Be Dangerous](https://www.learnenough.com/javascript)* by Michael Hartl.
 
 The module can be used as follows:
 
